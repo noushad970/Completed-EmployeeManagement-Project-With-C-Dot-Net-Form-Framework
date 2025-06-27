@@ -1,0 +1,2 @@
+# Completed-EmployeeManagement-Project-With-C-Dot-Net-Form-Framework
+This is a HR/Employee Management system Project with C# Dot Net Form Application. Here there are two panel. Admin and Employee. Admin can Add, Remove, Update Employee, Generate Report, set next month Schedule, Add Department, Give notice. Employee can see his profile, apply for leave, see notices, see schedule and give attendance
