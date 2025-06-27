@@ -1,0 +1,1 @@
+Open Solution File from project. connect your sqlserver with this project. with your sql server server name. than in sql server create the database and table which query are given in Query.spl file. change the connection string source. give your server name there. that's all

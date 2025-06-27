@@ -1,0 +1,18 @@
+C:\Users\Acer\OneDrive\Desktop\Dot Net Quiz App\Employee Management System\Employees Management System\Employees Management System\bin\Debug\Employees Management System.exe
+C:\Users\Acer\OneDrive\Desktop\Dot Net Quiz App\Employee Management System\Employees Management System\Employees Management System\bin\Debug\Employees Management System.exe.config
+C:\Users\Acer\OneDrive\Desktop\Dot Net Quiz App\Employee Management System\Employees Management System\Employees Management System\obj\Debug\Employees Management System.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\Dot Net Quiz App\Employee Management System\Employees Management System\Employees Management System\obj\Debug\Employees_Management_System.Forms.AdminDashboard.resources
+C:\Users\Acer\OneDrive\Desktop\Dot Net Quiz App\Employee Management System\Employees Management System\Employees Management System\obj\Debug\Employees_Management_System.Forms.AdminLoginForm.resources
+C:\Users\Acer\OneDrive\Desktop\Dot Net Quiz App\Employee Management System\Employees Management System\Employees Management System\obj\Debug\Employees_Management_System.Forms.EmployeeLogin.resources
+C:\Users\Acer\OneDrive\Desktop\Dot Net Quiz App\Employee Management System\Employees Management System\Employees Management System\obj\Debug\Employees_Management_System.Forms.EmployeeProfile.resources
+C:\Users\Acer\OneDrive\Desktop\Dot Net Quiz App\Employee Management System\Employees Management System\Employees Management System\obj\Debug\Employees_Management_System.Forms.LoginSelection.resources
+C:\Users\Acer\OneDrive\Desktop\Dot Net Quiz App\Employee Management System\Employees Management System\Employees Management System\obj\Debug\Employees_Management_System.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Desktop\Dot Net Quiz App\Employee Management System\Employees Management System\Employees Management System\obj\Debug\Employees Management System.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Desktop\Dot Net Quiz App\Employee Management System\Employees Management System\Employees Management System\obj\Debug\Employees Management System.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\Dot Net Quiz App\Employee Management System\Employees Management System\Employees Management System\obj\Debug\Employees Management System.exe
+C:\Users\Acer\OneDrive\Desktop\Dot Net Quiz App\Employee Management System\Employees Management System\Employees Management System\obj\Debug\Employees Management System.pdb
+C:\Users\Acer\OneDrive\Desktop\Dot Net Quiz App\Employee Management System\Employees Management System\Employees Management System\bin\Debug\Employees Management System.pdb
+C:\Users\Acer\OneDrive\Desktop\Dot Net Quiz App\Employee Management System\Employees Management System\Employees Management System\obj\Debug\Employees Management System.exe.config
+C:\Users\Acer\OneDrive\Desktop\Dot Net Quiz App\Employee Management System\Employees Management System\Employees Management System\obj\Debug\Employees_Management_System.Forms.demo.resources
+C:\Users\Acer\OneDrive\Desktop\Dot Net Quiz App\Employee Management System\Employees Management System\Employees Management System\obj\Debug\Employees_Management_System.Forms.GiveAttendance.resources
+C:\Users\Acer\OneDrive\Desktop\Dot Net Quiz App\Employee Management System\Employees Management System\Employees Management System\obj\Debug\Employees_Management_System.Forms.LeaveRequest.resources
